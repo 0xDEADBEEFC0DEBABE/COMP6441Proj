@@ -1,5 +1,9 @@
 # Kernel Driver Mapping Technical Guide: HelloWorld Driver Monitoring System & KDMapper Analysis
 
+**WARNING: DO NOT EXECUTE ANY BINARIES IN THIS REPOSITORY UNLESS YOU FULLY UNDERSTAND WHAT YOU ARE DOING.**
+
+**FOR EDUCATIONAL AND RESEARCH PURPOSES ONLY.**
+
 ## 1. Overview
 
 In modern operating systems, kernel-level drivers possess the highest system privileges and can monitor and control various aspects of the system. This document provides an in-depth analysis of two important kernel technology projects: **HelloWorld Driver Monitoring System** and **KDMapper Kernel Driver Mapping Tool**. These technologies have significant application value in network security research, system monitoring, and anti-cheat detection.
