@@ -1,0 +1,16 @@
+﻿  intel_driver.cpp
+  main.cpp
+  kdmapper.cpp
+  portable_executable.cpp
+  service.cpp
+  KDSymbolsHandler.cpp
+  utils.cpp
+E:\repo\kdmapper-master\kdmapper\intel_driver.cpp(709,215): warning C4100: 'Priority': unreferenced parameter
+E:\repo\kdmapper-master\kdmapper\intel_driver.cpp(709,190): warning C4100: 'BugCheckOnFailure': unreferenced parameter
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 818 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  kdmapper.vcxproj -> E:\repo\kdmapper-master\x64\Release\kdmapper_Release.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
